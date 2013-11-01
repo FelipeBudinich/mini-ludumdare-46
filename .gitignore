@@ -1,0 +1,25 @@
+# Packages
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Os detritus
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ImpactJs
+
+/tools
+/lib/impact
+/lib/weltmeister
+weltmeister.html
